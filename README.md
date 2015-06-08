@@ -15,9 +15,13 @@ For quick access of the Movie Trailer website, simply open fresh_tomatoes.html f
 ## Files
 
 entertainment_center.py
+
 fresh_tomatoes.html
+
 fresh_tomatoes.py
+
 media.py
+
 README.md
 
 ## Documentation
