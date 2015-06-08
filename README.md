@@ -22,4 +22,4 @@ README.md
 
 ## Documentation
 
-Download source code from [@yaasur](https://github.com/yaasur). After unzipping the compressed folder of project, make sure you copy all files into one folder. For running and executing project, please [download Python](https://www.python.org/downloads/). After installing Python IDLE, run IDLE. Open entertainment_center.py file from Menu -> File -> Open... The file will open in a new window, showing the source code. Run the program from Menu -> Run -> Run Module or by hitting F5. The website will open in browser.
+Download source code from [@yaasur](https://github.com/yaasur/movie-trailer-website). After unzipping the compressed folder of project, make sure you copy all files into one folder. For running and executing project, please [download Python](https://www.python.org/downloads/). After installing Python IDLE, run IDLE. Open entertainment_center.py file from Menu -> File -> Open... The file will open in a new window, showing the source code. Run the program from Menu -> Run -> Run Module or by hitting F5. The website will open in browser.
